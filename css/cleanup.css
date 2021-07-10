@@ -1,1 +1,29 @@
 /* write your override styles here */
+
+#wall .tag-1 {
+   display: none;
+ } 
+
+div.parent {
+ display:none;
+ border-bottom: 60px solid #ca5c5c;
+ border-top: 60px solid;;
+ 
+}
+
+div > div#wall {
+ display:none;
+}
+
+div#wall #tag-2 {
+ display:none;
+}
+
+div .slick wicked" {
+ display: none;
+}
+
+div > div.parent{
+    border-top:aqua;
+  }
+  
